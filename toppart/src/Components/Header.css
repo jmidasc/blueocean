@@ -1,0 +1,50 @@
+.saspot-header {
+  padding: 20px 25px;
+  border-bottom: grey solid 1px;
+  margin-bottom: 10px;
+}
+.saspot-sticky {
+  -webkit-transition: all ease 0.3s, box-shadow ease 0.3s;
+  -ms-transition: all ease 0.3s, box-shadow ease 0.3s;
+  transition: all ease 0.3s, box-shadow ease 0.3s;
+  z-index: 4;
+}
+.saspot-brand {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  z-index: 9;
+}
+.header-contract {
+  padding-left: 15px;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 10px 0 0 57px;
+  color: #999999;
+  position: relative;
+  z-index: 9;
+}
+.header-button {
+  background-color: #01c795 !important;
+  margin-left: 6px;
+  font-size: 12px;
+  min-width: 100px;
+  padding: 11px 20px 10px;
+  display: inline-block;
+  vertical-align: middle;
+  min-width: 160px;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+  position: relative;
+  outline: none;
+  cursor: pointer;
+  border-radius: 3px;
+  -webkit-transition: all ease 0.3s;
+  -ms-transition: all ease 0.3s;
+  transition: all ease 0.3s;
+}
