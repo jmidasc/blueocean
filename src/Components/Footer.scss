@@ -1,0 +1,27 @@
+.footerContainer {
+  background-color: #0c1322;
+  color: #9297a3;
+  h2 {
+    color: white;
+  }
+  .copyright {
+    .seofooter {
+      h4 {
+        text-align: center !important;
+      }
+    }
+    .saspot-social.rounded a {
+      margin: 0 6px 10px 0;
+      background: #212b3f;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px;
+      width: 35px;
+      height: 35px;
+      border-radius: 100%;
+    }
+    .textcenter p {
+      text-align: center;
+    }
+  }
+}

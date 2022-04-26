@@ -1,0 +1,95 @@
+  .no-class {}
+  .saspot-preloader, .saspot-label, .saspot-navigation > ul > li.active .menu-text:before, .saspot-navigation > ul > .current-page-ancestor .menu-text:before, .saspot-btn, .enterprises-wrap, .saspot-back-top a, .saspot-sidebar .saspot-widget ul li:before, .bullet-list li:before, .saspot-trial, .feature-item .saspot-icon, .saspot-file-selector .saspot-icon, .masonry-filters ul li a:before, .saspot-btn.saspot-light-blue-btn:hover, .saspot-btn.saspot-light-blue-btn:focus, .commission-wrap, .saspot-callout.callout-style-four, .video-btn:hover, .saspot-testimonials.testimonials-style-two, .service-item .saspot-icon, .value-item .saspot-icon, .tabs-style-two .nav-link:after, .corporate-item .saspot-icon, .benefit-item .saspot-icon, .testimonials-style-three .author-name:before, .video-style-three .video-btn, .saspot-market-types, .plan-feature-item .checkbox-icon-wrap input[type="checkbox"]:checked + .checkbox-icon:before, .tabs-style-three .nav-link:after, .request-bottom-wrap .saspot-social.rounded a:hover, .cookies-link, .cookies-close:hover:before, .cookies-close:hover:after, .wp-link-pages a, .wp-pagenavi > a:after, .wp-pagenavi > span:after, .saspot-pagination ul li a:after, .saspot-pagination ul li span:after, .saspot-conference .saspot-btn, .blog-info .saspot-link:after {
+    background-color: #277cec;
+  }
+
+  ::selection {background: #277cec;}
+  ::-webkit-selection {background: #277cec;}
+  ::-moz-selection {background: #277cec;}
+  ::-o-selection {background: #277cec;}
+  ::-ms-selection {background: #277cec;}
+
+  a:hover, a:focus, .saspot-topbar ul li a:hover, .saspot-topbar ul li a:focus, .saspot-navigation > ul > li:hover > a, .saspot-navigation > ul > li.active > a, .saspot-navigation > ul > .current-page-ancestor > a, .dropdown-nav li a:hover .menu-subtitle, ul:not(.elementor-nav-menu) .dropdown-nav li.all-resources a:hover, .banner-subtitle a:hover, .client-subtitle, .footer-widget ul li a:hover, .footer-widget ul li a:focus, .saspot-copyright p a:hover, .step-subtitle, .section-title span, .checkbox-icon-wrap input[type="checkbox"]:checked + .checkbox-icon:before, .job-label, .saspot-btn.saspot-white-btn, .video-btn, .class-date, .indepth-subtitle, .guide-label, .guide-main-label, .arrow-wrap:before, .wpcf7-list-item-label a, .market-role-item i, .common-feature-inner .saspot-icon, .analytics-inner .icon-linea, .accordion-title a:before, .pricing-plan-title span, .nav-tabs.tabs-style-three .nav-item.show .nav-link, .nav-tabs.tabs-style-three .nav-link.active, .nav-tabs.tabs-style-three .nav-link:focus, .nav-tabs.tabs-style-three .nav-link:hover, .chat-support-item .icon-linea, .no-cost-wrap .saspot-icon .icon-linea, .saspot-sidebar .saspot-widget ul li a:hover, .bullet-list li a:hover, .masonry-filters.filters-style-two ul li a.active, .use-step-arrow:before, .navigation-wrap .dropdown-nav li a:hover, .saspot-cookies p a:hover, .dropdown-nav li .inline-link a:hover, .saspot-pagination, .features-style-three .feature-item .saspot-icon, .chat-support-item .saspot-icon i, .blog-info a.saspot-link, .saspot-meta .author a:hover, .blog-date li a:hover, .saspot-sidebar .saspot-widget .blog-date li a:hover, .blog-detail-wrap .elementor-text-editor ol, .saspot-comments-area .comment-reply-link {
+    color: #277cec;
+  }
+
+  .navigation-wrap .saspot-navigation > ul > li.active, .saspot-file-selector label:hover, blockquote, .wp-link-pages a, .blog-item.sticky {
+    border-color: #277cec;
+  }
+.no-class {}
+.free-trial .saspot-label {
+  background-color: #277cec;
+}
+.no-class {}
+.mean-container .mean-nav ul li a {
+  color: #277cec;
+}
+.saspot-page-title {background-image: url(http://fresh.sovtech.co/wp-content/uploads/sites/27/2019/07/custom-software-sovtech.png);background-repeat: no-repeat;background-position: center center;background-size: initial;}
+@media (max-width: 1199px) {
+  .no-class {}
+  .saspot-header .saspot-navigation {
+    display: none !important;
+  }
+  .saspot-header {
+    padding: 20px 25px;
+  }
+  .saspot-navigation > ul > li {
+    display: block;
+    margin: 0;
+    border-bottom: 1px solid #dddddd;
+  }
+  .saspot-navigation > ul > li.open, .saspot-navigation > ul > li.open.active {
+    border-bottom-color: transparent;
+  }
+  .saspot-navigation > ul > li.active {
+    border-color: #4776e6;
+  }
+  .saspot-navigation > ul > li > a {
+    padding: 7px 60px 7px 0;
+    line-height: 21px;
+  }
+  .saspot-navigation > ul > li.has-dropdown:after, .saspot-navigation > ul > li.has-dropdown .menu-text:after {
+    display: none;
+  }
+  .saspot-navigation > ul > li.active .menu-text:before {
+    display: none;
+  }
+  .mega-menu .dropdown-nav {
+    min-width: 10px;
+  }
+  .mean-container .mega-menu .dropdown-nav li.active .menu-subtitle,
+  .mean-container .mega-menu .dropdown-nav li.active a {
+    background: none;
+    border: none;
+    color: #4776e6;
+  }
+  .mean-container .mega-menu .dropdown-nav li.active a {
+    border-top: 1px solid #d5dbe9;
+  }
+  .dropdown-nav li.active, .dropdown-nav li.active a, .mega-menu .dropdown-nav li.all-resources {
+    padding: 0;
+  }
+  .dropdown-nav li.all-resources {
+    padding: 0;
+  }
+  .dropdown-nav li.menu-spacer a {
+    padding: 25px 20px;
+  }
+  .dropdown-nav li.inline-text {
+    padding: 0;
+  }
+  .dropdown-nav li .inline-link {
+    padding-top: 10px;
+  }
+  .dropdown-nav li a {
+    padding: 15px 20px;
+  }
+  .dropdown-nav.normal-style {
+    background: transparent;
+    border: none;
+  }
+  .dropdown-nav.normal-style li a {
+    padding: 11px 10px;
+  }
+}
+body{font-family: "Muli", Arial, sans-serif;font-style: normal;}.saspot-navigation, .saspot-navigation > ul > li, .mean-container .mean-nav ul li a{font-family: "Muli", Arial, sans-serif;font-style: normal;}.dropdown-nav > li, .dropdown-nav, .mean-container .mean-nav ul.sub-menu li a{font-family: "Muli", Arial, sans-serif;font-style: normal;}h1, h2, h3, h4, h5, h6, .saspot-location-name, .text-logo, .saspot-team-intro .member-details h3, h2.quote-title p{font-family: "Muli", Arial, sans-serif;font-style: normal;}body, input[type="submit"], .nice-select-two .nice-select, .footer-widget .saspot-label, .testimonial-info p, .saspot-file-selector .saspot-icon, .testimonials-style-two .testimonials-wrap p, .guide-details ul li p, .table td p, .testimonials-style-three .testimonials-wrap p, .market-wrap .bullet-list, .tooltip{font-family: "Muli", Arial, sans-serif;font-style: normal;}p, .free-trial .saspot-label, .nice-select, .menu-subtitle, .banner-subtitle, .features-link, .create-account, .footer-widget ul, .copyright-language.nice-select-two .nice-select, .check-list, .bullet-list, .commission-info ul, form label, .page-subtitle, .file-types, .features-link .saspot-link, .guide-details ul, .guide-inner-title, .pricing-style-two ul, .request-bottom-wrap{font-family: "Noto Sans", Arial, sans-serif;font-style: normal;}.your-custom-class{font-family: "Montserrat", Arial, sans-serif;font-style: normal;}

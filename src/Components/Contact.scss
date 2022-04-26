@@ -1,0 +1,34 @@
+.contactContainer {
+  background-color: #1476f2;
+  padding: 50px 0px 50px 0px;
+  color: white;
+  .title {
+    color: #ddecff;
+    font-size: 34px;
+    font-weight: 800;
+  }
+  button {
+    padding: 12px 24px;
+  }
+  .contactinfo {
+    h2 {
+      color: #ddecff;
+      font-size: 33px;
+      font-weight: 600;
+    }
+    .linkes {
+      display: flex;
+      flex-direction: row;
+      .icon-label {
+        width: 42px;
+        height: 42px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: white;
+        color: #1476f2;
+        border-radius: 100%;
+      }
+    }
+  }
+}
