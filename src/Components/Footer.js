@@ -4,69 +4,63 @@ import React from "react";
 import { Container, Row, Col, Stack } from "react-bootstrap";
 import "./Footer.scss";
 
+import logo from '../assets/img/logo.png';
+
 export default () => {
   return (
     <Container as="footer" className="footerContainer p-4" fluid>
-      <Container>
-
-        <Row>
-          <Col>
+      <Container className="pt-5">
+        <Row className="mb-5">
+          <Col md={4}>
             <h2>
-              <img alt="dfsfds" />
+              <img src={logo} />
             </h2>
             <br />
-            hello@sovtech.co.uk
+            blue.ocean.gentrade@gmail.com
             <br />
-            SovTech UK Ltd. is a limited company registered in England and Wales. Registered number: 12000792.  VAT reg no: 325287693
+            <strong>BLUE OCEAN STAR GENERAL TRADING LLC</strong> is a limited company registered in UAE. <br />
+            Owner: ABUDUREHEIMU AOBULIKASI
           </Col>
           <Col>
             <h2>
               Bespoke Services
             </h2>
-            <div>
-              <Stack>
-                <a>App Development</a>
-                <a>Software Development</a>
-                <a>Website Development</a>
-                <a>Software Development</a>
-              </Stack>
-            </div>
+            <Stack className="linkes">
+              <a>App Development</a>
+              <a>Software Development</a>
+              <a>Website Development</a>
+              <a>Software Development</a>
+            </Stack>
           </Col>
           <Col>
             <h2>Solutions</h2>
-            <div>
-              <Stack>
-                <a>Agile Development</a>
-                <a>Hire Development Teams</a>
-                <a>Cloud Software</a>
-              </Stack>
-            </div>
+            <Stack className="linkes">
+              <a>Agile Development</a>
+              <a>Hire Development Teams</a>
+              <a>Cloud Software</a>
+            </Stack>
           </Col>
           <Col>
             <h2>
               About us
             </h2>
-            <div>
-              <Stack>
-                <a>About us</a>
-                <a> Clients</a>
-                <a>FAQs</a>
-                <a>Services</a>
-                <a>Blog</a>
-              </Stack>
-            </div>
+            <Stack className="linkes">
+              <a>About us</a>
+              <a> Clients</a>
+              <a>FAQs</a>
+              <a>Services</a>
+              <a>Blog</a>
+            </Stack>
           </Col>
           <Col>
             <h2>Contact Us</h2>
-            <div>
-              <Stack>
-                <a>Contact Us</a>
-                <a>Live Chat</a>
-                <a>Careers</a>
-                <a>Legal Policies</a>
-                <a>Sitemap</a>
-              </Stack>
-            </div>
+            <Stack className="linkes">
+              <a>Contact Us</a>
+              <a>Live Chat</a>
+              <a>Careers</a>
+              <a>Legal Policies</a>
+              <a>Sitemap</a>
+            </Stack>
           </Col>
         </Row>
         <Row className="copyright">

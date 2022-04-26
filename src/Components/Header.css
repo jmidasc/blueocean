@@ -1,7 +1,7 @@
 .saspot-header {
+  background-color: white;
   padding: 20px 25px;
   border-bottom: grey solid 1px;
-  margin-bottom: 10px;
 }
 .saspot-sticky {
   -webkit-transition: all ease 0.3s, box-shadow ease 0.3s;

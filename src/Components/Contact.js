@@ -17,9 +17,6 @@ export default () => {
               <Form.Group className="mb-3" controlId="formBasicEmail">
                 <Form.Label>Full Name</Form.Label>
                 <Form.Control type="text" placeholder="E.g. Erlich Bachman" />
-                {/* <Form.Text className="text-muted">
-                We'll never share your email with anyone else.
-              </Form.Text> */}
               </Form.Group>
 
               <Form.Group className="mb-3" controlId="formBasicPassword">
@@ -56,10 +53,10 @@ export default () => {
                 Need help? Feel free to contact us and we’ll respond as soon as possible.
                 <br />
                 <br />
-                hello@sovtech.co.uk
+                blue.ocean.gentrade@gmail.com
                 <br />
                 <strong>
-                  +44 20 3998 9611
+                  +97 150 725 9840
                 </strong>
               </p>
             </Row>

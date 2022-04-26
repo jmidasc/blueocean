@@ -20,7 +20,7 @@ export default () => {
             </Col>
             <Col md={9}>
               <h2> “</h2>
-              <p className="content">SovTech is a highly recommended and innovative partner.</p>
+              <p className="content">BlueOcean is a highly recommended and innovative partner.</p>
               <p className="wrap">FINCHECK, CEO</p>
             </Col>
           </Row>
@@ -31,7 +31,7 @@ export default () => {
             <Col md={9}>
               <h2> “</h2>
               <p className="content">
-                SovTech has been extremely efficient right from the start. <br />
+                BlueOcean has been extremely efficient right from the start. <br />
                 I've been more than please with the service.</p>
               <p className="wrap">FINCHECK, CEO</p>
             </Col>

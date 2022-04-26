@@ -1,0 +1,81 @@
+.row1-container {
+  .container {
+    max-width: 1140px;
+  }
+  .row {
+    margin-bottom: 20px;
+  }
+  .row1_heading1 {
+    color: #1476f2;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 1.1em;
+
+    margin: 0px 20px 20px 0px;
+    margin-bottom: 40px;
+  }
+  .row1_heading2 {
+    color: #1476f2;
+    margin-bottom: 20px;
+  }
+  img {
+    height: auto;
+    max-width: 100%;
+  }
+  .text {
+    font-size: 19px;
+    margin-bottom: 20px;
+  }
+  .feature-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 36px 54px 17px;
+    margin-bottom: 30px;
+    background: #fdfdff;
+    -webkit-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+  }
+  .feature-item .saspot-icon {
+    display: flex;
+    vertical-align: middle;
+    margin-bottom: 16px;
+    width: 48px;
+    height: 48px;
+    color: #ffffff;
+    text-align: center;
+    -webkit-border-radius: 100%;
+    -ms-border-radius: 100%;
+    border-radius: 100%;
+    background-color: #277cec;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+  }
+  p {
+    padding-bottom: 15px;
+    margin-bottom: 0;
+    color: #777777;
+    font-size: 16px !important;
+    letter-spacing: -0.2px;
+    line-height: 27px;
+    text-align: center;
+  }
+  .section-title {
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 1.2em;
+    padding-bottom: 18px;
+    letter-spacing: -0.2px;
+    color: #1476f2;
+    text-align: center;
+  }
+  .looking-item {
+    padding: 35px 25px;
+    text-align: center;
+    box-shadow: 0 0 15px rgb(0 0 0 / 8%);
+    margin-bottom: 26px;
+  }
+}
