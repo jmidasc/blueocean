@@ -51,6 +51,11 @@ export default () => {
           <Col md={4} className="contactinfo">
             <h2>Contact Info</h2>
             <Container>
+              <Row className="contactdetail">
+                <Col>
+                  <strong>BLUE OCEAN STAR GENERAL TRADING LLC</strong>
+                </Col>
+              </Row>
               <Row>
                 <Col md={3}>
                   <strong>Owner:</strong>
@@ -72,7 +77,7 @@ export default () => {
                   <strong>Address:</strong>
                 </Col>
                 <Col>
-                  Office No.101,<br /> a Matrooshi Shopping Center,<br /> Al Musalla Road,<br /> Naif, Deira,<br /> Dubai, UAE
+                  Office No.101,<br /> Al Matrooshi Shopping Center,<br /> Al Musalla Road,<br /> Naif, Deira,<br /> Dubai, UAE
                 </Col>
               </Row>
               <Row>
