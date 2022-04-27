@@ -41,6 +41,15 @@ export default () => {
             </Stack>
           </Col>
         </Row>
+        <Row className="copyright align-items-center">
+          <Col md={4}>
+          </Col>
+          <Col md={4} className="textcenter">
+            <p><strong> @ 2012 - 2022 </strong></p>
+          </Col>
+          <Col md={4} className="textright">
+          </Col>
+        </Row>
       </Container>
     </Container>
   )
