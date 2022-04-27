@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleRight } from "@fortawesome/free-solid-svg-icons";
 import { Col, Container, Row } from "react-bootstrap";
 
+import TRUSTEDBAND from "../assets/img/TrustedBand.png";
 import "./TrustedBand.scss";
 
 export default () => {
@@ -20,7 +21,8 @@ export default () => {
           </Col>
           <Col sm={6} >
             <div className="elementor-image">
-              <img className="attachment-large size-large" alt="SovTech-UK-Clients" style={{ maxWidth: "100%" }} src="https://17yy713v5uns344y173csoha-wpengine.netdna-ssl.com/wp-content/uploads/sites/11/2022/03/SovTech-UK-Clients-1-1024x736.png" />
+              <img className="attachment-large size-large" alt="BlueSeaStar" style={{ maxWidth: "100%" }}
+                src={TRUSTEDBAND} />
             </div>
           </Col>
         </Row>

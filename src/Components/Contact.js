@@ -12,16 +12,16 @@ export default () => {
           <h2 className="title"> Get Your Bespoke Software Quote </h2>
         </Row>
         <Row>
-          <Col md={8}>
+          <Col md={7}>
             <Form>
               <Form.Group className="mb-3" controlId="formBasicEmail">
                 <Form.Label>Full Name</Form.Label>
-                <Form.Control type="text" placeholder="E.g. Erlich Bachman" />
+                <Form.Control type="text" placeholder="E.g. John Doe" />
               </Form.Group>
 
               <Form.Group className="mb-3" controlId="formBasicPassword">
                 <Form.Label>Work Email</Form.Label>
-                <Form.Control type="email" placeholder="E.g. erlich@aviato.co.uk" />
+                <Form.Control type="email" placeholder="E.g. john.blue.ocean@gmail.com" />
               </Form.Group>
               <Form.Group className="mb-3" controlId="formBasicCheckbox">
                 <Form.Label>Company Size</Form.Label>
@@ -45,45 +45,45 @@ export default () => {
               </Button>
             </Form>
           </Col>
-          <Col md={1}></Col>
-          <Col md={3} className="contactinfo">
-            <Row>
-              <h2>Contact Info</h2>
-              <p>
-                Need help? Feel free to contact us and we’ll respond as soon as possible.
-                <br />
-                <strong>Owner: </strong>ABUDUREHEIMU AOBULIKASI
-                <br />
-                <strong>Mail: </strong>blue.ocean.gentrade@gmail.com
-                <br />
-                <strong> Address:</strong>Office No.101, a Matrooshi Shopping Center, Al Musalla Road, Naif, Deira, Dubai, UAE
-                <br />
-                <strong>
-                  Tel: +97 150 725 9840
-                </strong>
-              </p>
-            </Row>
-            <Row>
-              <h2>Follow Us</h2>
-              <Container>
-                <Row>
-                  <Col className="linkes">
-                    <div className="icon-label">
-                      <FontAwesomeIcon icon={faFacebookF} size="lg" />
-                    </div>
-                    <div className="icon-label">
-                      <FontAwesomeIcon icon={faTwitter} size="lg" />
-                    </div>
-                    <div className="icon-label">
-                      <FontAwesomeIcon icon={faLinkedin} size="lg" />
-                    </div>
-                    <div className="icon-label">
-                      <FontAwesomeIcon icon={faInstagram} size="lg" />
-                    </div>
-                  </Col>
-                </Row>
-              </Container>
-            </Row>
+          <Col md={1}>
+
+          </Col>
+          <Col md={4} className="contactinfo">
+            <h2>Contact Info</h2>
+            <Container>
+              <Row>
+                <Col md={3}>
+                  <strong>Owner:</strong>
+                </Col>
+                <Col>
+                  ABUDUREHEIMU AOBULIKASI
+                </Col>
+              </Row>
+              <Row>
+                <Col md={3}>
+                  <strong>Mail:</strong>
+                </Col>
+                <Col>
+                  blue.ocean.gentrade@gmail.com
+                </Col>
+              </Row>
+              <Row>
+                <Col md={3}>
+                  <strong>Address:</strong>
+                </Col>
+                <Col>
+                  Office No.101,<br /> a Matrooshi Shopping Center,<br /> Al Musalla Road,<br /> Naif, Deira,<br /> Dubai, UAE
+                </Col>
+              </Row>
+              <Row>
+                <Col md={3}>
+                  <strong>Tel: </strong>
+                </Col>
+                <Col>
+                  +97 150 725 9840
+                </Col>
+              </Row>
+            </Container>
           </Col>
         </Row>
       </Container>

@@ -16,7 +16,7 @@ export default () => {
             <div className="saspot-brand" style={{ paddingBottom: "-10px" }}>
               <img
                 src={Logo}
-                alt="SovTech.co.uk | Bespoke Software Development | London"
+                alt=" blue.ocean.gentrade | BLUE OCEAN STAR GENERAL TRADING LLC | Dubai"
                 class="default-logo normal-logo"
                 width="220"
                 height=""

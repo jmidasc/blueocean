@@ -70,23 +70,6 @@ export default () => {
             </div>
             <Row className="align-items-center">
               <Col md={4}>
-                <div className="saspot-social rounded">
-                  <a href="https://www.facebook.com/sovtech.uk" className="facebook">
-                    <FontAwesomeIcon icon={faFacebookF} />
-                  </a>
-                  <a href="https://twitter.com/SovTech_uk" className="twitter">
-                    <FontAwesomeIcon icon={faTwitter} />
-                  </a>
-                  <a href="https://www.linkedin.com/company/sovtech/" className="linkedin">
-                    <FontAwesomeIcon icon={faLinkedin} />
-                  </a>
-                  <a href="https://www.instagram.com/humans_of_sovtech/" className="instagram">
-                    <FontAwesomeIcon icon={faInstagram} />
-                  </a>
-                  <a href="https://github.com/SovTech" className="github">
-                    <FontAwesomeIcon icon={faGithub} />
-                  </a>
-                </div>
               </Col>
               <Col md={4} className="textcenter">
                 <p>© 2012 - 2022</p>
