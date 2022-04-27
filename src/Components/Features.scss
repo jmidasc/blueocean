@@ -1,9 +1,11 @@
 .feature-container {
+  margin-bottom: 30px;
   .feature-item {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    margin-bottom: 50px;
     .saspot-icon {
       width: 48px;
       height: 48px;

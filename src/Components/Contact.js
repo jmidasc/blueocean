@@ -52,11 +52,14 @@ export default () => {
               <p>
                 Need help? Feel free to contact us and we’ll respond as soon as possible.
                 <br />
+                <strong>Owner: </strong>ABUDUREHEIMU AOBULIKASI
                 <br />
-                blue.ocean.gentrade@gmail.com
+                <strong>Mail: </strong>blue.ocean.gentrade@gmail.com
+                <br />
+                <strong> Address:</strong>Office No.101, a Matrooshi Shopping Center, Al Musalla Road, Naif, Deira, Dubai, UAE
                 <br />
                 <strong>
-                  +97 150 725 9840
+                  Tel: +97 150 725 9840
                 </strong>
               </p>
             </Row>

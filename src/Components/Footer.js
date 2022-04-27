@@ -4,7 +4,7 @@ import React from "react";
 import { Container, Row, Col, Stack } from "react-bootstrap";
 import "./Footer.scss";
 
-import logo from '../assets/img/logo.png';
+import logo from '../assets/img/logo1.png';
 
 export default () => {
   return (
