@@ -11,7 +11,7 @@ export default () => {
     <Container as="footer" className="footerContainer p-4" fluid>
       <Container className="pt-5">
         <Row className="mb-5">
-          <Col md={4}>
+          <Col md={5}>
             <h2>
               <img src={logo} />
             </h2>
@@ -40,44 +40,6 @@ export default () => {
               <a>Cloud Software</a>
             </Stack>
           </Col>
-          <Col>
-            <h2>
-              About us
-            </h2>
-            <Stack className="linkes">
-              <a>About us</a>
-              <a> Clients</a>
-              <a>FAQs</a>
-              <a>Services</a>
-              <a>Blog</a>
-            </Stack>
-          </Col>
-          <Col>
-            <h2>Contact Us</h2>
-            <Stack className="linkes">
-              <a>Contact Us</a>
-              <a>Live Chat</a>
-              <a>Careers</a>
-              <a>Legal Policies</a>
-              <a>Sitemap</a>
-            </Stack>
-          </Col>
-        </Row>
-        <Row className="copyright">
-          <Container>
-            <div className="seofooter">
-              <h4>Top Software Companies |&nbsp; Software Development Services | Software Solutions | App Development</h4>
-            </div>
-            <Row className="align-items-center">
-              <Col md={4}>
-              </Col>
-              <Col md={4} className="textcenter">
-                <p>© 2012 - 2022</p>
-              </Col>
-              <Col md={4} className="textright">
-              </Col>
-            </Row>
-          </Container>
         </Row>
       </Container>
     </Container>

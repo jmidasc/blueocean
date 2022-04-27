@@ -22,12 +22,6 @@ export default () => {
                 height=""
               ></img>
             </div>
-            <div className="header-contract">
-              <div className="header-contact-link">
-                <FontAwesomeIcon icon={faPhone}></FontAwesomeIcon>
-                &nbsp;&nbsp;&nbsp;+971507259840
-              </div>
-            </div>
           </Col>
           <Col
             xl={7}
@@ -37,7 +31,7 @@ export default () => {
             className="d-flex justify-content-center"
           >
             <div></div>
-            <Button className="header-button">Start a Project</Button>
+            <Button className="header-button" href="#contact">Start a Project</Button>
           </Col>
         </Row>
       </header>

@@ -31,7 +31,7 @@ export default () => {
             supporting a legacy system. We are your long-term bespoke software
             development partners for scale.
           </div>
-          <Button>Get Started</Button>
+          <Button href="#contact">Get Started</Button>
         </Col>
         <Col md={6}>
           <img src={img} alt="" />
